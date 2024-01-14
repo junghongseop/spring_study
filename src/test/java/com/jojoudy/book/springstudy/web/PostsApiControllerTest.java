@@ -3,7 +3,6 @@ package com.jojoudy.book.springstudy.web;
 import com.jojoudy.book.springstudy.domain.posts.Posts;
 import com.jojoudy.book.springstudy.domain.posts.PostsRepository;
 import com.jojoudy.book.springstudy.web.dto.PostsSaveRequestDto;
-import org.aspectj.lang.annotation.After;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
