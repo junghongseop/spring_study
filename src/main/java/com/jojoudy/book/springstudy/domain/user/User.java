@@ -1,10 +1,11 @@
 package com.jojoudy.book.springstudy.domain.user;
 
 import com.jojoudy.book.springstudy.domain.BaseTimeEntity;
-import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
 
 
 @Getter
