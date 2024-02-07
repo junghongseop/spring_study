@@ -29,6 +29,8 @@ dependencies {
     implementation 'org.springframework.security:spring-security-test'
     implementation 'org.springframework.boot:spring-boot-maven-plugin:2.5.4'
     implementation 'org.mariadb.jdbc:mariadb-java-client'
+
+    testImplementation 'org.springframework.security:spring-security-test'
 }
 
 tasks.named('test') {
